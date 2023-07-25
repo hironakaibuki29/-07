@@ -11,6 +11,7 @@
     </head>
     <body class="antialiased">
       <h1>Blog Name</h1>
+      <h1>こんにちは</h1>
       <form action="/posts" method="POST">
           @csrf
           <div class="title">
